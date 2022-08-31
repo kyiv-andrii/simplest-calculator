@@ -1,2 +1,2 @@
 # simplest-calculator
-simplest calculator on Python
+It's my first program on Python.
