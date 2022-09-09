@@ -1,7 +1,7 @@
-## simplest-calculator
+# simplest-calculator
 It's my first program on Python.
 
-# License
+## License
 Permission is hereby granted, free of charge,
 to any person obtaining a copy of this software,
 to deal in the Software without restriction,
